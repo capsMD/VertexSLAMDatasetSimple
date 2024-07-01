@@ -1,3 +1,3 @@
-Data set for testint SLAM
+Dataset for SLAM test 
 
 Simple Vtx coordinates sequence 
